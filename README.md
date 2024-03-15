@@ -1,0 +1,1 @@
+Prueba de herencia con figuras geometricas
